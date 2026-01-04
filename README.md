@@ -1,2 +1,4 @@
 # YellowJackets
-A small website sharing information on the Showtime TV show, YellowJackets. 
+A small website sharing information, updates and theories on the Showtime TV show, YellowJackets. 
+
+
