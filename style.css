@@ -1,1 +1,14 @@
-
+html{
+    scroll-behavior: smooth;
+}
+body {
+background-image: url(https://th.bing.com/th/id/R.5c5e8002eb7c322ac88a1c36d4d203ef?rik=lf5LM%2bKUfyFCZg&riu=http%3a%2f%2fhollywoodnorthbuzz.com%2fwp-content%2fuploads%2f2023%2f05%2fyellowjackets-antler-queen-poster-1024x734.png&ehk=99A4CON%2f9v4xJLNJakMZ939IqOB4flLr8UYHwEDlqN4%3d&risl=&pid=ImgRaw&r=0);
+}
+#header{
+    color:white;
+}
+#Selection
+ {
+    font-size: 14px;
+    color:red;
+}
